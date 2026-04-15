@@ -1,0 +1,11 @@
+{
+  "name": "myagent-demo",
+  "version": "1.0.0",
+  "description": "Demo project for myagent presentation",
+  "main": "config.js",
+  "scripts": {
+    "start": "node config.js",
+    "test": "echo \"No tests yet\""
+  },
+  "license": "MIT"
+}
